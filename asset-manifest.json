@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Digital-Clock-Dial/static/css/main.753bb1af.css",
+    "main.js": "/React-Digital-Clock-Dial/static/js/main.05d9092a.js",
+    "index.html": "/React-Digital-Clock-Dial/index.html",
+    "main.753bb1af.css.map": "/React-Digital-Clock-Dial/static/css/main.753bb1af.css.map",
+    "main.05d9092a.js.map": "/React-Digital-Clock-Dial/static/js/main.05d9092a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.753bb1af.css",
+    "static/js/main.05d9092a.js"
+  ]
+}
